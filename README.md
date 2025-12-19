@@ -30,6 +30,7 @@ Many skills in this repo are open source (Apache 2.0). We've also included the d
 You can register this repository as a Claude Code Plugin marketplace by running the following command in Claude Code:
 ```
 /plugin marketplace add anthropics/skills
+/plugin marketplace add f4ah6o/skills
 ```
 
 Then, to install a specific set of skills:
